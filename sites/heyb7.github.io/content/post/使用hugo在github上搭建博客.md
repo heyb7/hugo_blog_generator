@@ -12,9 +12,9 @@ Hugo是一个开源的静态网站生成器，很适合用来搭建个人博客�
 
 # 装备工作
 1. 安装git  
-从[git官网]()下载对应的安装包。然后直接安装即可。
+从[git官网](https://git-scm.com/)下载对应的安装包。然后直接安装即可。
 2. 安装hugo  
-从[Hugo的github仓库]()下载最新版本的安装包（当前最新的包是hugo_extended_0.54.0_Windows-64bit.zip），记得要下载extended版本的，不然在使用主题的时候会报错。
+从[Hugo的github仓库](https://github.com/gohugoio/hugo/releases)下载最新版本的安装包（当前最新的包是hugo_extended_0.54.0_Windows-64bit.zip），记得要下载extended版本的，不然在使用主题的时候会报错。
 
 # 安装Hugo
 假如把hugo安装到D:\hugo目录下，先在D盘下新建hugo目录，然后在hugo目录下再新建2个目录，bin和sites。目录结构如下：  
